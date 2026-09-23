@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4d1f4401b62012cfcd7daa41",
+  "owner": "kbhmnhxuf",
+  "repo": "page-2b937446b00fbe387f9d65eb",
+  "title": "BH专线版",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2b937446b00fbe387f9d65eb",
+      "a": "BH专线版",
+      "b": "稳定全球clash加速器",
+      "entity": "BH专线版",
+      "brand": "BH专线版",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "be2345c3493364a363503d87dbb9539ec91f139095955f01cff67aa7f2377a91",
+      "content": {
+        "primary_entity": "BH专线版",
+        "keyword1": "BH专线版",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，并参照配置文档导入订阅。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选择与设备数量匹配的套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐连接全球",
+          "AI_DESCRIPTION": "，以 IPLC 专线与多节点线路池为基础，提供基础版、旗舰版与团队版三档订阅，覆盖个人到团队的不同流量与设备需求。支持 Clash 及其他主流客户端，可按设备数量选择套餐并导入订阅。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路类型三个维度梳理套餐，方便按实际需求选择。",
+          "AI_FEATURES_TITLE": "套餐怎么选更合适",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合手机与笔记本轻度使用；旗舰版每月 300GB 流量支持 5 台设备，包含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB 流量支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由，适合小型团队统一配置。",
+          "AI_FEATURE_TEXT_3": "按年付有相应优惠，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可按年度订阅降低月均成本。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选档",
+          "AI_FEATURE_TITLE_2": "团队多设备场景",
+          "AI_FEATURE_TITLE_3": "年付周期更划算",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到连接使用的过程。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "BH专线版围绕 IPLC 专线与多节点线路池提供订阅服务，三档套餐分别对应个人、多设备与团队场景，选择后按客户端文档导入订阅即可连接使用。",
+          "AI_HERO_SUBTITLE": "专线加速 稳定连接全球",
+          "AI_HIGHLIGHT_1": "IPLC 专线游戏加速优化",
+          "AI_HIGHLIGHT_2": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_3": "支持 Clash 等主流客户端",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按需对比流量与设备数量。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量大小与同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限和线路类型，确认满足自身使用场景。",
+          "AI_STEP_TEXT_3": "参照对应客户端的配置文档导入订阅，完成连接后即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "专线连接全球节点",
+          "AI_FAQ_ANSWER_1": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量，团队版每月85元含1000GB流量。按年付更优惠，基础版150元/年，旗舰版350元/年，团队版850元/年。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备同时在线。超出设备数量时，可以在对应设备上使用同一订阅，但建议按常用设备数选择套餐。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含IPLC专线节点，对游戏延迟和实时传输做了优化。普通线路节点也能满足日常浏览和视频需求，可根据对延迟的敏感程度选择。",
+          "AI_FAQ_ANSWER_4": "可以。客户端通常提供订阅地址导入或扫码导入两种方式，在客户端中找到订阅配置入口，粘贴订阅链接后更新即可使用。具体操作可参考对应客户端的文档。",
+          "AI_FAQ_ANSWER_5": "选择套餐后完成付费，将订阅导入所选客户端，在设备上连接节点即可使用。不同客户端界面略有差异，按文档完成配置即可。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "BH专线版各套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时在几台设备上使用？",
+          "AI_FAQ_QUESTION_3": "旗舰版和基础版在节点线路方面有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅可以导入到多个客户端吗？",
+          "AI_FAQ_QUESTION_5": "如何开始使用BH专线版？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "aaxaxc.cn",
+    "host": "aaxaxc.cn"
+  },
+  "file_hashes": {
+    "index.html": "301548d8671e125a8b31f24c035a41267fa6ed34c8f0d8775a477b2d29f25a6e",
+    "sitemap.xml": "fa0f6415dc6c84b5c598f8c7381e078cf77ff1da39f3c747c7dfc8638c888db2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8451c250bed1c3fce06665daf569be8e00607700c25f8b14e95ff603981aaa05",
+    "robots.txt": "20ed55feca8df953ce8cfc3d7b00d8556304d46a2debc5343686335a9c887d7c",
+    "d88861558371a91dae89447a16fc1f8c.txt": "bce30a2bfe88887f47b50c1f1e5d8056d296d39694ade5afdae059a32abb4d0a"
+  },
+  "revision": "15ac70fc9654ee5fcb3b6548c02d89799babefba54a398e830c8eaa3c6945f9f"
+}
